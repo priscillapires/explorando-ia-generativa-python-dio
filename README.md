@@ -1,0 +1,1 @@
+# explorando-ia-generativa-python-dio
